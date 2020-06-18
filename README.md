@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/MissSabrina_Bot"> <img src="https://telegra.ph/file/864721ff3b215ff66730e.png" alt="@MissSabrina_Bot" /></a></p>
+<p align="center"><a href="https://t.me/MiaTGbot"> <img src="https://telegra.ph/file/0c81caf684cf2e44dbe4c.jpg" alt="@MiaTGbot" /></a></p>
 
 
 
@@ -10,13 +10,13 @@
 
 <h2 align="center">The easiest way to deploy mah bot! is click on the image below</h2>
 
-<p align="center"><a href="https://heroku.com/deploy"> <img src="https://telegra.ph/file/0d4088fed32da2a9a92bf.png" alt="Click Here to Deploy" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy"> <img src="https://telegra.ph/file/0c81caf684cf2e44dbe4c.jpg" alt="Click Here to Deploy" /></a></p>
 
 <h2 align="center">Updates and Support</h2>
 
-<p align="center">Join our <a href="https://t.me/SabrinaOfficial">Telegram Channel</a> for update notifications!</p>
+<p align="center">Join our <a href="https://t.me/Super_botz">Telegram Channel</a> for update notifications!</p>
 
-<p align="center">Also join our <a href="https://t.me/SabrinaChat">Telegram Support Group</a> for help and support!</p>
+<p align="center">Also join our <a href="https://t.me/Super_botz_support">Telegram Support Group</a> for help and support!</p>
 
 <p align="center">Forked From <a href="https://t.me/ctrlrobot">@CTRLROBOT</p>
 
