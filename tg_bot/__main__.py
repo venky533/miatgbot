@@ -27,19 +27,19 @@ def escape_html(word):
     return escape(word)
 
 PM_START_TEXT = """
-Hello *{}* My name is *Sabrina*!
+Hello *{}* My name is *MiaTGbot*!
 
 I'm here to manage your groups! 
 
 Click Help button to find out more about how to use me to my full potential. 
 
-Join Support Chat ( @SabrinaChat ) if you need any support or help 
+Join Support Chat ( @Super_botz_support ) if you need any support or help 
 
-Join ( @SabrinaOfficial ) if you want to keep up with the news, updates and bot downtime!
+Join ( @Super_botz ) if you want to keep up with the news, updates and bot downtime!
 
-Made by @TechnoAyanOfficial
+Made by @super_botz
 
-Want me to help you? [Click Here!](https://t.me/MissSabrina_bot?startgroup=true)
+Want me to help you? [Click Here!](https://t.me/MiaTGbot?startgroup=true)
 """
 
 
@@ -169,10 +169,10 @@ def send_start(bot, update):
                 
     keyboard = [[
         InlineKeyboardButton(text=tld(chat.id, '🥳Add To Group'),
-                             url="https://t.me/MissSabrina_bot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
+                             url="https://t.me/MiaTGbot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
         ]]
     keyboard += [[
-        InlineKeyboardButton(text=tld(chat.id, '👥 Support Group'), url="https://t.me/SabrinaChat")
+        InlineKeyboardButton(text=tld(chat.id, '👥 Support Group'), url="https://t.me/SUPER_BOTZ_SUPPORT")
     ]]
 
     update.effective_message.reply_text(
@@ -414,10 +414,10 @@ def donate(bot: Bot, update: Update):
     if chat.type == "private":
         update.effective_message.reply_text(DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
 
-        if OWNER_ID != 594813047 and DONATION_LINK:
+        if OWNER_ID != 919584113 and DONATION_LINK:
             update.effective_message.reply_text("You can also donate to the person currently running me "
-                                                "[here]({})".format(DONATION_LINK),
-                                                parse_mode=ParseMode.MARKDOWN)
+                                                "[@ankith_m]({})".
+                                               
 
     else:
         try:
