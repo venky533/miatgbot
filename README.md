@@ -20,3 +20,5 @@
 
 <p align="center">Forked From <a href="https://t.me/ctrlrobot">@CTRLROBOT</p>
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
